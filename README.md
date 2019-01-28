@@ -5,6 +5,8 @@
 NodeMCU [ESP8226-12E](https://en.wikipedia.org/wiki/NodeMCU) with an
 [iAQ-Core-C](https://download.mikroe.com/documents/datasheets/iaq-core-datasheet-en-v1.pdf).
 
+![Hardware Setup](https://i.imgur.com/nK0DdjA.jpg)
+
 ## Installation 
 
 The following libraries are required:
