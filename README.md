@@ -1,0 +1,16 @@
+# IAQ Smoke Detector
+
+## Hardware
+
+NodeMCU [ESP8226-12E](https://en.wikipedia.org/wiki/NodeMCU) with an
+[iAQ-Core-C](https://download.mikroe.com/documents/datasheets/iaq-core-datasheet-en-v1.pdf).
+
+## Installation 
+
+The following libraries are required:
+
+ * [ESP8266 Arduino Core](https://arduino-esp8266.readthedocs.io/en/2.5.0-beta2/installing.html)
+ * [ESP8266WiFI](https://arduino-esp8266.readthedocs.io/en/latest/esp8266wifi/readme.html)
+ * [PubSubClient](https://pubsubclient.knolleary.net/)
+ * [iAQ Core](https://github.com/maarten-pennings/iAQcore)
+
